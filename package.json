@@ -1,0 +1,24 @@
+{
+    "name": "videostream",
+    "version": "1.0.0",
+    "description": "A video streaming app ",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js",
+        "dev": "nodemon app.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Mostalpha7/videoStream.git"
+    },
+    "author": "Mustapha Abdulmujeeb",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Mostalpha7/videoStream/issues"
+    },
+    "homepage": "https://github.com/Mostalpha7/videoStream#readme",
+    "dependencies": {
+        "express": "^4.17.1",
+        "nodemon": "^2.0.7"
+    }
+}
